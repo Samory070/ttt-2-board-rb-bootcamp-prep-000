@@ -4,4 +4,4 @@ puts row1 = [" ", " ", " "]
 puts row2 = [" ", " ", " "]
 puts row3 = [" ", " ", " "]
 
-row[0]
+row[1] = 'X'
