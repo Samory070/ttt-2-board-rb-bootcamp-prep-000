@@ -1,5 +1,5 @@
 # Define the variable board below.
 
-row1 = [" ", " ", " "]
-row2 = [" ", " ", " "]
-row3 = [" ", " ", " "]
+puts row1 = [" ", " ", " "]
+puts row2 = [" ", " ", " "]
+puts row3 = [" ", " ", " "]
